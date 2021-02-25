@@ -1,0 +1,1 @@
+batHitBall = false;
